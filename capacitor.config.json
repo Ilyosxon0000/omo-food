@@ -1,0 +1,14 @@
+{
+  "appId": "com.omo.food",
+  "appName": "OmoFood",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
